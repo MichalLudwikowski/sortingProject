@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  sortingProject.cpp
+d:\repos\sortingproject\sortingproject\sortingproject\sortingproject.cpp(42): warning C4244: "argument": konwersja z "time_t" do "unsigned int", możliwa utrata danych
+  sortingProject.vcxproj -> D:\repos\sortingProject\sortingProject\Debug\sortingProject.exe
+  sortingProject.vcxproj -> D:\repos\sortingProject\sortingProject\Debug\sortingProject.pdb (Partial PDB)
